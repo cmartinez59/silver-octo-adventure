@@ -13,7 +13,7 @@ Travel is a great way to explore new places, experience different cultures, and 
 - [[transportation/index|Transportation]]
 - [[travel-tips/index|Travel Tips]]
 - [[travel-planning/index|Travel Planning]]
-- [[packing/index|Packing]]
+- [[packing/index|packing]]
 - [[travel-safety/index|Travel Safety]]
 
  
