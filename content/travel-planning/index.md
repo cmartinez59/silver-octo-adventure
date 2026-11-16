@@ -1,3 +1,3 @@
 ---
-title:Travel Planning
+title: Travel Planning
 ---
