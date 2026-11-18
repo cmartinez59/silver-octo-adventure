@@ -18,11 +18,11 @@ Before I book anything, I look at photos and reviews, especially when it comes t
 
 ### Popular Considerations
 
-	Travel cost
-	 Local attractions
-	 Safety
-	 Weather
-	 Transportation options
+    Travel cost
+	 - Local attractions
+	 - Safety
+	 - Weather
+	 - Transportation options
 	 
 ### Making a Final Decision
 
