@@ -24,6 +24,10 @@ Hostels are a popular option for travelers who want to save money and meet other
 	- Safety
 	- Reviews
 
+### Tips for Choosing Accommodations
+
+When selecting accommodations, I compare several options before making a reservation. Looking at recent reviews helps me understand the experiences other travelers have had. I also compare locations to make sure I am close to attractions, restaurants, or transportation. Booking early can sometimes provide better prices and more choices.
+
 ### Travel Image
 
 ![[greece.jpg]]
@@ -35,3 +39,5 @@ Reviews often provide helpful information about service, cleanliness, and overal
 	> Carefully researching accommodations can help prevent problems during a trip.
 	
 Before making reservations, I review my budget in [[Budgeting-for-a-Trip]] and create a plan in [[Creating-an-Itinerary]].
+
+
