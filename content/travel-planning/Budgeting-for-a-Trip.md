@@ -30,5 +30,5 @@ After developing a budget, I can move on to [[Choosing-a-Destination]] and start
 ### Travel Photo
 ![[travel-photo.jpg]]
 
-### Travel Guide Map PDF
+### Magic Kingdom Map PDF
 ![[magic-kingdom-map.pdf]]
