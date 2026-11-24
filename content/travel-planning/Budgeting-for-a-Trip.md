@@ -26,3 +26,9 @@ I like to keep track of expenses before and during a trip. This allows me to adj
 	> Sticking to a budget allows travelers to focus on enjoying their trip and less on worrying about money.
 	
 After developing a budget, I can move on to [[Choosing-a-Destination]] and start looking at options for [[Booking-Accommodations]].
+
+### Travel Photo
+![[travel-photo.jpg]]
+
+### Travel Guide PDF
+![[travel-guidemap.pdf]]
