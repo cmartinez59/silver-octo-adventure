@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Allrecipes is an online recipe collection that helps people discover, prepare, and share food recipes. It contains thousands of recipes covering different types of meals, cuisines, ingredients, and dietary preferences. The site's organizing system is designed to help users quickly find recipes they want while also encouraging them to explore new meal ideas. By combining categories, search tools, and related content. Allrecipes makes a large collection of recipes easy to navigate. 
+Allrecipes is an online recipe collection that helps people discover, prepare, and share food recipes. It contains thousands of recipes covering different types of meals, cuisines, ingredients, and dietary preferences. The site's organizing system is designed to help users quickly find recipes they want while also encouraging them to explore new meal ideas. By combining categories, search tools, and related content, Allrecipes makes a large collection of recipes easy to navigate. 
 
 ## 1. Primary Resources Being Organized
 
